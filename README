@@ -1,0 +1,5 @@
+DisruptorFailOver is a tool based on the Disruptor Framework. 
+It tends to offer a lack of tools offered with this framework, especially:
+- a journalisation system
+- a replication system
+- a marshalling/unmarshalling module
