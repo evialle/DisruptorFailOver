@@ -16,7 +16,7 @@ import org.vialle.disruptorfailover.mocks.MockServiceNetworkEventHandler;
  */
 public class DisruptorServiceTest {
 	
-	private static final int NB_OF_REQUESTS = 100000;
+	private static final int NB_OF_REQUESTS = 2000000;
 
 	@Test
 	@SuppressWarnings("unchecked")

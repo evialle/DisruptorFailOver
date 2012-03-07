@@ -24,7 +24,7 @@ public class ConfigDisruptor {
 	private JournalisationService journalisationService;
 	private MarshallerService marshallerService;
 	private ExecutorService executorService;
-	private int ringSize = 64;
+	private int ringSize = 256;
 	private WaitStrategy waitingStrategy;
 	private ClaimStrategy claimStrategy;
 	
