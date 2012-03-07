@@ -1,0 +1,21 @@
+h1. DisruptorFailOver
+
+
+h2. Introduction 
+
+DisruptorFailOver is a tool based on the Disruptor framework, produced by LMAX.
+It tends to offer a lack of tools offered with this framework, especially:
+* a journalisation system
+* a replication system
+* a marshalling/unmarshalling module
+
+h2. Sources:
+
+* Original Sources: http://code.google.com/p/disruptor/
+* Martin's Fowler introduction to Disruptor: http://martinfowler.com/articles/lmax.html
+
+h2. Licence
+
+Apache License 2.0
+Version 2.0, January 2004
+http://www.apache.org/licenses/
