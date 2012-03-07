@@ -8,6 +8,7 @@ It tends to offer a lack of tools offered with this framework, especially:
 * a journalisation system
 * a replication system
 * a marshalling/unmarshalling module
+* a communication system as producer
 
 h2. Sources:
 
