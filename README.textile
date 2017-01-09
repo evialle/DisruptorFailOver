@@ -1,5 +1,6 @@
 h1. DisruptorFailOver
 
+!https://travis-ci.org/evialle/DisruptorFailOver.svg?branch=master!:https://travis-ci.org/evialle/DisruptorFailOver
 
 h2. Introduction 
 
